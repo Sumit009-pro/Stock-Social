@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383688457423",
+    "project_id": "stocksocial-4c366",
+    "storage_bucket": "stocksocial-4c366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383688457423:android:f2d59ecc6cbdb1c6c7cbba",
+        "android_client_info": {
+          "package_name": "com.example.stock_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383688457423-i278dl0atl1urf7neku392vccrr0nlef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQGvbUSC_2SBPX0837pBoUN7K4aREjBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383688457423-i278dl0atl1urf7neku392vccrr0nlef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
